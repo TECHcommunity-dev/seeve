@@ -1,5 +1,5 @@
-/* An example of an ERROR for some 64-bit architectures,
-if "unsigned int" is 32 bits and "size_t" is 64 bits: */
+/* Test an example of an ERROR for some 64-bit architectures,
+if "unsigned int" is 32 bits and "size_t" is 64 bits: */ 
 #include <unistd.h>
 #include <stdlib.h>
 #include <stdlib.h>
